@@ -26,7 +26,6 @@ http://localhost:7777/cloud/eclient/b;
 http://localhost:7777/cloud/fclient/get;
 
 7.test security run eureka server and check http://localhost:8761;
-run zuulserver and check http://localhost:8761;
 run authserver and check http://localhost:8761;
 run secured client and check http://localhost:8761;
 use postman!!!
